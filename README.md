@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nylipton
-- 👀 I’m interested in Python, Flutter/Dart, Java, and product management
-- 🌱 I’m currently learning Jupyter, Pandas, Numpy, etc.
+- 👀 I’m interested in Python and machine learning, Flutter/Dart, Java, and product management
+- 🌱 I’m currently learning Deep Learning, Jupyter, Pandas, Numpy, etc.
 - 📫 How to reach me: email
